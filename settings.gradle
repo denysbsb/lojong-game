@@ -1,0 +1,3 @@
+rootProject.name = "lojong"
+include ':app'
+include ':popover'
